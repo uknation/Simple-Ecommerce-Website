@@ -12,8 +12,8 @@ A Django-based Ecommerce platform that allows users to browse products, add item
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, Bootstrap
+- **Frontend:** HTML
 - **Backend:** Django (Python)
-- **Database:** SQLite (default Django DB)
+- **Database:** SQLite
 - **PDF Generator:** xhtml2pdf
 - **Environment:** Virtualenv
